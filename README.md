@@ -8,7 +8,7 @@ The UNSC Mod combines Corporate and HDM togther and also makes some changes inga
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 See deployment for notes on how to deploy the project on a live system.
-Any questions should be sent to broduer@aogamers.net or via discord: broduer40#0331
+Any questions should be sent to broduer@aogamers.net or via discord: broduer
 
 ### Prerequisites
 
